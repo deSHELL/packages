@@ -1,0 +1,14 @@
+Package: cls
+Version: 0.0.1
+Architecture: all
+Maintainer: turbomaster95 <dev@deva.is-cool.dev>
+Homepage: https://deva.is-cool.dev
+Description: |-
+     Adds command 'cls'
+Filename: dists/stable/main/binary-all/clspkg.deb
+Size: 816
+MD5Sum: b3fa64c91c1a488489def0998837329d
+SHA1: 09b75d7cfe1aee8c766331b318a536417bbbdfc7
+SHA256: 8b2758c28e4170ac99edf94ea6f38a75022fcd622d3aa29a2c46fd74d9d28f52
+SHA512: 1068c063f8828fa497a21a274f38b14497ca95d28d017ac93919e4bd1ba0d42f98a48c2b53d90314d76fd6d17ed224c80184eece195ce713c52786fc8967ccbc
+
