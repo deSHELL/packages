@@ -6,32 +6,39 @@ Version: 1
 Architectures: all
 Description: stable repository
 Suite: stable
-Date: Thu, 10 Aug 2023 10:47:27 UTC
+Date: Fri, 11 Aug 2023 11:21:47 UTC
 Components: main
 MD5Sum:
  fd2d5d5e94bc0efbb0278af44a1926af 529 main/binary-all/Packages
  d8e8671fcc8b937d4d9534efeacf01b4 468 main/binary-all/Packages.xz
- 8eb19454f1f5bd1c4ba6c098644b88d0 85 main/Contents-all
  99cc7b95190895296ec1ad26de4e548f 108 main/Contents-all.xz
+ 8eb19454f1f5bd1c4ba6c098644b88d0 85 main/Contents-all
 SHA1:
  aacfe0c75a46631ae7387147e1f7736f7d07d00a 529 main/binary-all/Packages
  597e3acef572204071d4fc03d8f46cb163643533 468 main/binary-all/Packages.xz
- 12b627d4171ff4e081bd9b7c24f1b5e0c8d483aa 85 main/Contents-all
  1c6d9cd9569321ab57e5760c4a3ee616a42f7abe 108 main/Contents-all.xz
+ 12b627d4171ff4e081bd9b7c24f1b5e0c8d483aa 85 main/Contents-all
 SHA256:
  57086ac4d7fdbb21dbb9df6eea8aed405e92c23170b05f53103e5eeb74646b0f 529 main/binary-all/Packages
  8fa3ce689f4de2e10457a55376adb3022f5a0b9b1da74e4fe6ed3f20047eddaa 468 main/binary-all/Packages.xz
- 2c1ffa9cde82425ef677bb8e552263ecc754b98b5dec63005014482fad72ad78 85 main/Contents-all
  b1684b68b8ff3c4af4322b454ca0954b3ad73c96ba29ca24c49a188a3eff16d7 108 main/Contents-all.xz
+ 2c1ffa9cde82425ef677bb8e552263ecc754b98b5dec63005014482fad72ad78 85 main/Contents-all
 SHA512:
  75aece28caf277bf22a0cb77c603ee59b27971f1f7e0330608622b29795f49e2f755354db1063ee435d7b043cf2eb39ed3ea29a0d09e09939441d231524df740 529 main/binary-all/Packages
  7be93ec7e5e4d0aff9e1aeeac273a0ed53dac42a3b816c50bfa532976f7d7d89c8f9410b10377e22fa6efad81d2a69881f0685030e98088d309f7e23722188c3 468 main/binary-all/Packages.xz
- e6fcb781d34f4114f8be30bc6c29443c38b933712b5d1170c4d6826c15583f2034e8fa982d0b10c8579ec4eb2e6e8427f0c8f82a244858c9011775f691b9360f 85 main/Contents-all
  457e9357ffc059a8dc41e01566a8eb14a5b87e05b971f06e32d9b79930d018c9eabfe03c526856915f71930423f90867d39f576dd0b8405da9a0094a8e715a08 108 main/Contents-all.xz
+ e6fcb781d34f4114f8be30bc6c29443c38b933712b5d1170c4d6826c15583f2034e8fa982d0b10c8579ec4eb2e6e8427f0c8f82a244858c9011775f691b9360f 85 main/Contents-all
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSXgCkfhyLZjEw7G0tPcz8y4pOl4gUCZNTAQAAKCRBPcz8y4pOl
-4sd3AQDYUHKviW2BFvZPe99/p7LBhfhBnCYShXJs8lHDFhngFgEAkxXThwAN34Zb
-5cN2NrXPzF8EO2pSbZ74EuDsFtz4KwU=
-=AvM7
+iQGzBAEBCAAdFiEE2VK4VAy/jcTXaohGbUvlKSWNOcgFAmTWGcwACgkQbUvlKSWN
+OcjWdAv/bXnTRYpGVvLefU/+Ot82knTO2yY63dB8HwudnfiLK0+YmmbmtbbFfvgw
+GyavIW1EK/YSLrHz52bH44ych2wU5II64JAaadS6BL3YuEgKarX7s92VNVGWH7aC
+soTJhSCZAO7nqT/HCVfkApx/BhP2hvzSY2BWPoJquKgc6sIa2rdYpmNy2AZa66Ub
+DyQTwbRn6e68/U2LNGogMiBKQvuw0mOezlY8WdLAV6kbEaHQI7aJNt1ElB9LoTIH
+puqn+BkYtuCXMgoX5duQ2DQs709OvvujYILpNPCA+6pG3hr8aCz8JGcpIlD9KjTC
+YC5RbTTrYTzj/qxQAVOKb54TshPD2/IyTL2yafzJ7d5fqthKrwGyvR0lyN05Ux0R
+pBZxyMBK+QPUmM3V53dUJlyqpSTvDzoIsoE6uIbfqek5KSS/iiiOk6TS0tGpTRtD
+0ZqbGWHgAtcvCOwiYFdby/rOI2n6vGC9Xjf2M4Hyg8iYAiYnu91jS1SVBTAsXggy
+NDdK3MyM
+=6pW1
 -----END PGP SIGNATURE-----
